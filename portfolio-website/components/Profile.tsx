@@ -1,6 +1,6 @@
 // FILE: src/components/Portfolio.tsx
 
-"use client"; // Important: This tells Next.js to run this code in the browser
+ // Important: This tells Next.js to run this code in the browser
 
 import { Mail, Linkedin, Github, Code, BrainCircuit, Database } from 'lucide-react';
 import Link from 'next/link';

@@ -1,10 +1,10 @@
-import HomePage from '@/components/HomePage'
+import ContactPage from '@/components/ContactPage'
 import React from 'react'
 
 const page = () => {
   return (
     <div className='p-6'>
-    <HomePage/>
+    <ContactPage/>
     </div>
   )
 }
